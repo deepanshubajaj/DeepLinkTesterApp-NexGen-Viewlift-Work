@@ -1,5 +1,3 @@
-# DeepLinkTesterApp-NexGen-Viewlift-Work
-DeepLinkTesterApp-NexGen-Viewlift-Work
 <h1 align="center">DeepLinkTester - tvOS App</h1>
 
 ---
