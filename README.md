@@ -52,7 +52,7 @@ It allows developers and QA teams to quickly verify deep linking behavior in a c
 ## 📱 App Icon:
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
+  <img src="ProjectOutputs/appIcon.png" alt="App Icon" width="30%" />
 </p>
 <p align="center">
   *The App Icon reflects the DeepLinkTester App Look*
